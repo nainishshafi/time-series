@@ -49,6 +49,8 @@ pip install -r requirements.txt
 
 ## Documentation Index
 
+### Tool Reference (`docs/`)
+
 | Topic | Guide | Runnable Sample |
 | :--- | :--- | :--- |
 | **Meta Prophet** | [01-prophet.md](file:///c:/Users/naini/time-series/docs/01-prophet.md) | [01_prophet_forecast.py](file:///c:/Users/naini/time-series/examples/01_prophet_forecast.py) |
@@ -57,6 +59,18 @@ pip install -r requirements.txt
 | **Google OR-Tools** | [04-ortools.md](file:///c:/Users/naini/time-series/docs/04-ortools.md) | [04_ortools_scheduling_mip.py](file:///c:/Users/naini/time-series/examples/04_ortools_scheduling_mip.py) |
 | **Gurobi Optimizer** | [05-gurobi.md](file:///c:/Users/naini/time-series/docs/05-gurobi.md) | [05_gurobi_milp.py](file:///c:/Users/naini/time-series/examples/05_gurobi_milp.py) |
 | **Predict-Then-Optimize Pipeline** | [06-predict-then-optimize.md](file:///c:/Users/naini/time-series/docs/06-predict-then-optimize.md) | [06_predict_then_optimize.py](file:///c:/Users/naini/time-series/examples/06_predict_then_optimize.py) |
+
+### Learning Curriculum (`learning/`)
+
+Start with the [Learning Path Table of Contents](file:///c:/Users/naini/time-series/learning/README.md) for step-by-step modules with internal TOCs and hands-on exercises:
+
+1. [Module 1: Time-Series Foundations](file:///c:/Users/naini/time-series/learning/01-time-series-foundations.md)
+2. [Module 2: Meta Prophet Deep Dive](file:///c:/Users/naini/time-series/learning/02-prophet-deep-dive.md)
+3. [Module 3: ARIMA, SARIMA & SARIMAX Deep Dive](file:///c:/Users/naini/time-series/learning/03-arima-sarimax-deep-dive.md)
+4. [Module 4: Multivariate LSTMs for Time Series](file:///c:/Users/naini/time-series/learning/04-lstm-sequence-modeling.md)
+5. [Module 5: Mathematical Optimization with Google OR-Tools](file:///c:/Users/naini/time-series/learning/05-optimization-modeling-ortools.md)
+6. [Module 6: MILP Modeling with Gurobi](file:///c:/Users/naini/time-series/learning/06-milp-with-gurobi.md)
+7. [Module 7: Predict-Then-Optimize Workshop](file:///c:/Users/naini/time-series/learning/07-predict-then-optimize-workshop.md)
 
 ---
 
