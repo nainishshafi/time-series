@@ -1,0 +1,9 @@
+numpy>=1.26.0
+pandas>=2.2.0
+prophet>=1.1.5
+statsmodels>=0.14.0
+torch>=2.2.0
+scikit-learn>=1.4.0
+ortools>=9.10.0
+gurobipy>=11.0.0
+pytest>=8.0.0
